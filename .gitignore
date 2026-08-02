@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+app/models/*.h5
+app/models/*.pkl
+app/models/*.yml
+!app/models/.gitkeep
+.pytest_cache/
+.DS_Store
+*.ipynb_checkpoints

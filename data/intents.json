@@ -1,0 +1,26 @@
+{
+  "greeting": {
+    "examples": ["hi", "hello", "hey there", "good morning", "is anyone there"],
+    "responses": ["Hello! Welcome to our store. How can I help you today?"]
+  },
+  "order_status": {
+    "examples": ["where is my order", "track my order", "order status", "has my package shipped"],
+    "responses": ["You can track your order in the 'My Orders' section using your order ID."]
+  },
+  "return_policy": {
+    "examples": ["what is your return policy", "can I return this", "how do refunds work", "exchange item"],
+    "responses": ["Items can be returned within 30 days of delivery for a full refund."]
+  },
+  "store_hours": {
+    "examples": ["what are your store hours", "when do you open", "closing time", "are you open today"],
+    "responses": ["Our stores are open from 10 AM to 9 PM, Monday through Sunday."]
+  },
+  "payment_methods": {
+    "examples": ["what payment methods do you accept", "can I pay with card", "do you accept cash on delivery"],
+    "responses": ["We accept credit/debit cards, UPI, net banking, and cash on delivery."]
+  },
+  "goodbye": {
+    "examples": ["bye", "goodbye", "see you later", "thanks, that's all"],
+    "responses": ["Thanks for chatting with us! Have a great day."]
+  }
+}
